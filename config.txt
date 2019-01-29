@@ -3,4 +3,4 @@ prefix=1
 game=1help | Mero Codes
 stayinchannel=true
 songinstatus=true
-token=NTI4NjQ3NDcxNzE1NTgxOTcx.DzHTQQ.9_pAvNDAPtAYy4yVywESn8dpYpw
+token=NTI5MDA2MDY1MDM2MTY1MTIy.DzHrGg.pJof1InydUze8_lX4PLhvrlAWrg
