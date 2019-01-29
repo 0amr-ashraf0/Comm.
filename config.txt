@@ -1,6 +1,6 @@
 owner=484869429327560704
 prefix=1
-game=1play | Mero Codes
+game=1help | Mero Codes
 stayinchannel=true
 songinstatus=true
 token=NTI4NjQ3NDcxNzE1NTgxOTcx.DzHTQQ.9_pAvNDAPtAYy4yVywESn8dpYpw
